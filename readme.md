@@ -19,8 +19,8 @@ To run this notebook, you'll need to have Python and Jupyter installed. It's rec
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Hharkheem/Permeability-Prediction-from-Well-Log-Data.git
+   cd Permeability-Prediction-from-Well-Log-Data
    ```
 
 2. Create and activate a virtual environment (optional but recommended):
